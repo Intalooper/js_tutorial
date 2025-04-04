@@ -1,0 +1,15 @@
+#!/usr/local/bin/node
+
+
+console.log("hello, world!");
+
+
+
+/*this file is a working javascript shell script suitable for extension and elaboration
+
+
+To do: 
+    REPL
+    
+*/
+
